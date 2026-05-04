@@ -23,6 +23,7 @@ Elle met en scène un poisson qui nage à travers l'écran tout en félicitant l
 - Interaction : clique sur le poisson pour le faire accélérer
 - Clique sur le titre → message surprise "Poisson d'Avril"
 - 100% autonome (un seul fichier HTML)
+- en plus d'un poisson d'avril c'est un test pour la secu d'optic 2000
 
 
 ---
